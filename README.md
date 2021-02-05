@@ -31,10 +31,6 @@ The app consists of two screens: A Main screen with a list of all the detected a
 
 The application can be used both online and offline, as it's been set up to cache weekly information on asteroids once a day. 
 
-
-```
-
-
 ## Built With
 
 To build this project you are going to use the NASA NeoWS (Near Earth Object Web Service) API, which you can find here.
