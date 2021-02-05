@@ -25,9 +25,9 @@ And the following third-party libraries:
 
 ## Project description
 
-Asteroid Radar is an app to view the asteroids detected by NASA that pass near Earth, you can view all the detected asteroids in a period of time, their data (size, velocity, distance to Earth) and if they are potentially hazardous.
+Asteroid Radar is an app to view the asteroids detected by NASA that pass near Earth. You can view all the detected asteroids in a period of time, their data (size, velocity, distance to Earth) and if they are potentially hazardous.
 
-The app is consists of two screens: A Main screen with a list of all the detected asteroids and a Details screen that displays the data of that asteroid once it´s selected in the Main screen list. The main screen shows the NASA image of the day, making this app more striking.
+The app consists of two screens: A Main screen with a list of all the detected asteroids and a Details screen that displays the data of that asteroid once it´s selected in the Main screen list. The main screen shows the NASA image of the day, making this app more striking.
 
 The application can be used both online and offline, as it's been set up to cache weekly information on asteroids once a day. 
 
